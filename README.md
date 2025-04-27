@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshinee
+- 👋 Hi, I’m Harshinee
 - 👀 I’m interested in AI and building cool tech projects.. 
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on data science projects
