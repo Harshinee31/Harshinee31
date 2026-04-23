@@ -1,5 +1,1 @@
-👋 Hi, I’m Harshinee! 
-🤖 Passionate about AI, data-driven systems & building meaningful tech
-🌱 Currently exploring Machine Learning and intelligent systems
-💡 Interested in solving real-world problems with scalable solutions
-📫 Reach me at: harshinee3111@gmail.com
+Hey, I'm Harshinee! — exploring how logic turns into intelligence and ideas turn into real, working systems. Quietly focused on building meaningful tech, learning and unlearning along the way, and continuously improving with a strong interest in Machine Learning. Driven by clarity, purpose, and creating solutions that actually make an impact. 📫 harshinee3108@gmail.com
